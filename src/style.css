@@ -1,0 +1,10 @@
+.test {
+  background-color: royalblue;
+  color: white;
+  font-size: 32px;
+}
+
+button:hover{
+    color: rebeccapurple;
+    background-color: white;
+}
